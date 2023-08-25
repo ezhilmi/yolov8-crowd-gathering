@@ -23,5 +23,3 @@ VIDEO_PATH = "crowd_accident.mp4"
 ## Methodology
 - This module uses [YOLOv8](https://docs.ultralytics.com/) as pretrained detection model with ImageNet. The scripts will detect the total person in the video/rtsp, if it reach the total limit of the person in the video/rtsp within few seconds, it will triggered as crowd detected.
 
-## Demo
-[Video Link](https://drive.google.com/file/d/1NMlTsQcTGxZBsRXhviueNd_EO7u9REmR/view?usp=drive_link)

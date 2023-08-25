@@ -25,6 +25,3 @@ VIDEO_PATH = "crowd_accident.mp4"
 
 ## Demo
 [Video Link](https://drive.google.com/file/d/1NMlTsQcTGxZBsRXhviueNd_EO7u9REmR/view?usp=drive_link)
-
-## Person in charge
-Ezahan
